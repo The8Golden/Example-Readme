@@ -39,8 +39,6 @@ RGB `rgb(9, 105, 218)`
 
 HSL `hsl(212, 92%, 45%)`
 
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
-
 # Link
 
 This site was built using [GitHub Pages](https://pages.github.com/).
@@ -70,3 +68,26 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 - [ ] \(Optional) Open a followup issue
+
+[Contribution guidelines for this project](CONTRIBUTING.md) 
+<!-- Lien ou directoire d'un fichier/dossier-->
+
+
+Reference 1 [^1].
+
+Reference 2 [^2].  
+
+Reference 3 [^note].
+
+[^1]: Ma premiére reference
+[^2]: Ma 2eme reference  
+Sa marche su plusieur Ligne
+[^note]:
+    3eme reference avec un nom 
+
+<!-- This content will not appear in the rendered Markdown -->
+
+Let's rename \*our-new-project\* to \*our-old-project\*. 
+<!--Pour pouvoir mettre des caractere speciaux des 2 cotés-->
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
