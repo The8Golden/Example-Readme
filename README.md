@@ -69,7 +69,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 - [ ] \(Optional) Open a followup issue
 
-[Contribution guidelines for this project](TEST.md) 
+[Redirection de fichier/dossier](TEST.md) 
 <!-- Lien ou directoire d'un fichier/dossier-->
 
 
